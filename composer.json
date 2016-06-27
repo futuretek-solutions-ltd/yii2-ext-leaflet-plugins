@@ -1,6 +1,6 @@
 {
     "name": "futuretek/yii2-leaflet-plugins",
-    "description": "Yii2 Leaflet plugin to enable single click event on map.",
+    "description": "Yii2 Leaflet plugins",
     "keywords": [
         "yii2",
         "extension",

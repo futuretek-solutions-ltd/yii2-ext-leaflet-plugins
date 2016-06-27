@@ -15,6 +15,8 @@ use yii\web\JsExpression;
  */
 class SingleClick extends Plugin
 {
+    const EVENT_SINGLECLICK = 'singleclick';
+    
     /**
      * @var int Single click timeout in miliseconds
      */
