@@ -1,0 +1,47 @@
+{
+    "name": "futuretek/yii2-leaflet-plugin-singleclick",
+    "description": "Yii2 Leaflet plugin to enable single click event on map.",
+    "keywords": [
+        "yii2",
+        "extension",
+        "widget",
+        "maps",
+        "leaflet",
+        "plugin"
+    ],
+    "type": "yii2-extension",
+    "license": "proprietary",
+    "homepage": "http://www.futuretek.cz/",
+    "authors": [
+        {
+            "name": "Lukas Cerny",
+            "email": "lukas.cerny@futuretek.cz",
+            "homepage": "http://www.futuretek.cz",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://jira.futuretek.cz/browse/YII",
+        "wiki": "https://doc.futuretek.cz/display/YII",
+        "source": "https://git.futuretek.cz/projects/YII"
+    },
+    "require": {
+        "2amigos/yii2-leaflet-extension": "~1.0"
+    },
+    "repositories": [
+        {
+            "url": "http://composer.futuretek.cz/repo/private/",
+            "type": "composer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "futuretek\\leaflet\\plugin\\singleclick\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
