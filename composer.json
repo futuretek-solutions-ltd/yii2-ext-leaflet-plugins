@@ -1,5 +1,5 @@
 {
-    "name": "futuretek/yii2-leaflet-plugin-singleclick",
+    "name": "futuretek/yii2-leaflet-plugins",
     "description": "Yii2 Leaflet plugin to enable single click event on map.",
     "keywords": [
         "yii2",
@@ -36,7 +36,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "futuretek\\leaflet\\plugin\\singleclick\\": ""
+            "futuretek\\leaflet\\plugins\\": ""
         }
     },
     "extra": {

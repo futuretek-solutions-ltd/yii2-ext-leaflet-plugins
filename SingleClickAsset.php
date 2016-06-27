@@ -1,20 +1,20 @@
 <?php
 
-namespace futuretek\leaflet\plugin\singleclick;
+namespace futuretek\leaflet\plugins;
 
 use yii\web\AssetBundle;
 
 /**
  * Class SingleClickAsset
  *
- * @package futuretek\leaflet\plugin\singleclick
+ * @package futuretek\leaflet\plugins
  * @author  Lukas Cerny <lukas.cerny@futuretek.cz>
  * @license http://www.futuretek.cz/license FTSLv1
  * @link    http://www.futuretek.cz
  */
 class SingleClickAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/futuretek/yii2-leaflet-plugin-singleclick/assets';
+    public $sourcePath = '@vendor/futuretek/yii2-leaflet-plugins/assets';
 
     public $depends = ['dosamigos\leaflet\LeafLetAsset'];
 
