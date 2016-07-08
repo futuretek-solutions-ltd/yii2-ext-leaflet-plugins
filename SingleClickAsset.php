@@ -16,7 +16,7 @@ class SingleClickAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/futuretek/yii2-leaflet-plugins/assets';
 
-    public $depends = ['dosamigos\leaflet\LeafLetAsset'];
+    public $depends = ['futuretek\leaflet\LeafLetAsset'];
 
     public $js = ['singleclick.js'];
 }

@@ -2,7 +2,7 @@
 
 namespace futuretek\leaflet\plugins;
 
-use dosamigos\leaflet\Plugin;
+use futuretek\leaflet\Plugin;
 use yii\web\JsExpression;
 
 /**
