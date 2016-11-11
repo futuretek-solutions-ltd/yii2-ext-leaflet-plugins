@@ -26,7 +26,7 @@
         "source": "https://git.futuretek.cz/projects/YII/repos/ext-leaflet-plugins/browse"
     },
     "require": {
-        "2amigos/yii2-leaflet-extension": "^1.0.0"
+        "futuretek/yii2-leaflet-extension": "^1.0.0"
     },
     "repositories": [
         {
