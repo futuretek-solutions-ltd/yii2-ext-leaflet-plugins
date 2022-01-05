@@ -10,7 +10,6 @@ use yii\web\JsExpression;
  *
  * @package futuretek\leaflet\plugins
  * @author  Lukas Cerny <lukas.cerny@futuretek.cz>
- * @license http://www.futuretek.cz/license FTSLv1
  * @link    http://www.futuretek.cz
  */
 class SingleClick extends Plugin

@@ -14,7 +14,6 @@ use yii\bootstrap\Widget;
  *
  * @package app\classes\leaflet
  * @author  Lukas Cerny <lukas.cerny@futuretek.cz>
- * @license http://www.futuretek.cz/license FTSLv1
  * @link    http://www.futuretek.cz
  */
 class LeafletPicker extends Widget
